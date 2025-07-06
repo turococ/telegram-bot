@@ -4,5 +4,4 @@ bot1:
 pyTelegramBotAPI
 
 bot2:
-pyTelegramBotAPI
-pillow
+pyTelegramBotAPI, pillow
